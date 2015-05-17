@@ -12,13 +12,12 @@ Linki do projektów na zaliczenie z przedmiotu „Techniki Internetowe”:
 1. Jacewicz, Małgorzata
 1. Łuksza, Natalia
 1. Nowak, Łukasz
-1. Nowicka, Beata
+1. [Nowicka, Beata] [Readme.md]
 1. Ostapczuk, Andrzej
-1. [Selke, Marcin](http://mselke.github.io/)
+1. Selke, Marcin 10.04, 12.04
 1. Skuza, Łukasz
 1. Sudomir-Gordon, Milena
 1. Mokrzycki, Rafał
-2. [Snarski, Lech](http://lsnarski.github.io/)
 
 
 ### Linki
